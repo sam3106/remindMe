@@ -1,0 +1,18 @@
+#nav-login {
+  text-align: end;
+}
+img {
+  width: 200px;
+}
+.row {
+  align-items: center;
+}
+#header {
+  background: darkgray;
+}
+a {
+  color: black;
+}
+#header-logo {
+  text-align: center;
+}
